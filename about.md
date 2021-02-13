@@ -2,14 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+date: 2018-09-19 16:32:16
+tags:
+- BLOG
 ---
 
-Some information about you!
+Um blog consiste em uma plataforma online para publicação de opiniões, conteúdos e artigos que o autor considere relevantes.
+Este blog é mantido por Victor Hugo D'Ávila e todo conteúdo é restrito às suas ideias ou trabalhos, devidamente referenciados, quando incluírem terceiros.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[blog.vhtel.net](https://blog.vhtel.net)
